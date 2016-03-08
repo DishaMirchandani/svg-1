@@ -1,12 +1,10 @@
 # SVG
 ###Drawing on the Web Assignment 4
 
-For this assignment I created an interactive timeline about the carving of the Stone Mountain Memorial in Georgia, which is the focus of my journalism honors thesis.
+###Forked Deborah Lubanga's svg assignment of a timeline- by Disha Mirchandani 
 
-Three carvers worked on the monument over the course of 60 years:  
+I changed up the timeline by reducing the space between each carver and the two that were stencils instead of a silhouette larger and more rectangular to play around with the aesthetics. I loved her choice of gradient color so I kept that in my forked version of her project of the three carvers worked on the Stone Mountain Memorial in Georgia over the course of 60 years:  
 
 - Borglum Gutzon (1915-1924)
 - Augustus Lukeman (1925-1928)
 - Walter Hancock (1963-1972)
-
-I used Adobe Illustrator to create my SVG image, but I edited the ids and classes in my HTML file to make them more meaningful.
